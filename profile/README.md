@@ -2,6 +2,9 @@
 
 Welcome to the Bulldog Rocketry GitHub page!
 
-[Our Website](https://bulldogrocketry.org)
+## Get in Touch
+[Visit Our Website](https://bulldogrocketry.org)
 
-[![Discord Banner 1](https://discord.com/api/guilds/753997419678662716/widget.png?style=banner3)](https://discord.gg/HNsR6rvpsf)
+[![Join the Bulldog Rocketry Discord Server!](https://discord.com/api/guilds/753997419678662716/widget.png?style=banner3)](https://z.umn.edu/brDiscord)  
+
+Send us an email at [rocketry@d.umn.edu](mailto:rocketry@d.umn.edu)
